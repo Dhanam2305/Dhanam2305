@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dhanam2305</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Data Analyst from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanam2305&label=Profile%20views&color=0e75b6&style=flat" alt="dhanam2305" /> </p>
 
-- 🔭 I’m currently working on **Ecommerce in reactjs**
+- 🔭 I’m currently working on **Ecommerce in Power BI**
 
-- 💬 Ask me about **React and related technologies**
+- 💬 Ask me about **Data Analyst**
 
 - 📫 How to reach me **Singamuthu118@gmail.com**
 
